@@ -12,4 +12,4 @@
 
 远程修改3
 
-remote 4
+local 4
